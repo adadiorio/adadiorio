@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/machine-learning-line-horizontal-banner-vector-ml-technology-linear-illustration_104589-5147.jpg)]
+![MasterHead](https://img.freepik.com/premium-vector/machine-learning-line-horizontal-banner-vector-ml-technology-linear-illustration_104589-5147.jpg)
 <h1 align="center">Hi 👋, I'm Ada D'Iorio</h1>
 <h3 align="center">Physics data analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
