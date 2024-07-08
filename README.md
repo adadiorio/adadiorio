@@ -5,11 +5,13 @@
 <h3 align="center">Physics data analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🔭 I’m currently working on **Data analysis**
+- 🔭 I’m currently working on **Data analysis** and **Machine learning**
 
 - 👯 I’m collaborating on **Particle physics**
 
-- 📫 How to reach me **ada.diorio@gmail.com**
+
+<a href="mailto:ada.diorio@gmail.com">![ada.diorio@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
