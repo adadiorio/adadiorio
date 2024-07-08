@@ -1,8 +1,5 @@
-![MasterHead](https://img.freepik.com/premium-vector/machine-learning-line-horizontal-banner-vector-ml-technology-linear-illustration_104589-5147.jpg)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=adadiorio.MAPD-B_Muon_Batch_Analysis)
-
 <h1 align="center">Hi 👋, I'm Ada D'Iorio</h1>
-<h3 align="center">Physics data analysis</h3>
+<h3 align="center">Data analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🔭 I’m currently working on **Data analysis** and **Machine learning**
@@ -11,7 +8,6 @@
 
 
 <a href="mailto:ada.diorio@gmail.com">![ada.diorio@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
