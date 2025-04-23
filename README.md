@@ -1,23 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ada D'Iorio</h1>
-<h3 align="center">Data analysis</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<h1 align="center"> Hello world, I'm Ada D'Iorio :wave:</h1>
+<h3 align="center">MSc Student in Physics of Data | Data Analyst | Deep Learning Enthusiast | Physics Bachelor degree</h3>
 
-- 🔭 I’m currently working on **Data analysis** and **Machine learning**
-
-- 👯 I’m collaborating on **Particle physics**
-
-
-<a href="mailto:ada.diorio@gmail.com">![ada.diorio@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ada-d-iorio-330097294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adadiorio" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" alt="Coding illustration" />
 </p>
 
+----
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🎓 I am currently completing my MSc in *Physics of Data* at the University of Padua, with a strong focus on:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adadiorio&show_icons=true&locale=en&layout=compact" alt="adadiorio" /></p>
+- **Data Analysis** and **Statistical Modeling**
+- **Computer Vision** and **Deep Learning**
+- **FPGA and microcontrollers**
+- Research applications involving **machine learning models** for real-world scientific challenges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adadiorio&show_icons=true&locale=en" alt="adadiorio" /></p>
+📌 I am particularly interested in leveraging data-driven methods to solve complex problems, especially in the context of remote sensing and sustainable technologies.
+
+## 🚀 Highlight Projects
+
+- 📊 [**Earthquake-Stats**](https://github.com/adadiorio/Earthquake-Stats): Statistical analysis and clustering of earthquake data (1921–2021) in R.
+- 💡 [**Muon-Detectors**](https://github.com/adadiorio/MAPD-B-Muon-Batch-Analysis): Presentation and analysis of Muon flux coming from space with parallel computing techniques.
+- 📊 [**COVID19-Inference**](https://github.com/adadiorio/InformationTheory_Project): Inference on Covid19 spreading with MCMC sampling techniques.
+
+## :computer: Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-0175C2?style=for-the-badge&logo=verilog&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+### :round_pushpin: Contact me
+
+<a href="mailto:ada.diorio@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/ada-d-iorio-330097294/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+---
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adadiorio&theme=default" alt="GitHub Streak"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
+> *"The wonderful thing about deep learning is that it works."*  
+> — Geoffrey Hinton
+
