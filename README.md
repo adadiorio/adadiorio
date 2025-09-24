@@ -1,4 +1,4 @@
-<h1 align="center"> Hello world, I'm Ada D'Iorio :wave:</h1>
+<h1 align="center"> Hello world, I'm Ada :wave:</h1>
 <h3 align="center">MSc Student in Physics of Data | Data Analyst | Deep Learning Enthusiast | Physics Bachelor degree</h3>
 
 <p align="center">
